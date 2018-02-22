@@ -1,5 +1,4 @@
-[
-  {
+const listmovies=[{
     id: 1,
     title: "The Shawshank Redemption",
     poster: "https://i.imgur.com/SuW2ZlC.jpg",
@@ -72,7 +71,7 @@
       "Gary Oldman"
     ]
   }, {
-  {
+
     id: 5,
     title: "Schindler's List",
     poster: "https://i.imgur.com/IWZJOmu.jpg",
@@ -90,5 +89,5 @@
       "Jonathan Sagall",
       "Embeth Davidtz"
     ]
-  }
-]
+  }]
+export default listmovies;
